@@ -1,0 +1,11 @@
+Weather,Temperature,Humidity,Wind,Sports
+Sunny,Hot,High,Weak,Football
+Sunny,Hot,High,Strong,Tennis
+Overcast,Hot,High,Weak,Tennis
+Rain,Mild,High,Weak,Football
+Rain,Cool,Normal,Weak,Football
+Sunny,Cool,Normal,Weak,Tennis
+Overcast,Cool,Normal,Strong,Baseball
+Rain,Mild,Normal,Weak,Baseball
+Sunny,Mild,Normal,Weak,Baseball
+Rain,Mild,High,Strong,Football
